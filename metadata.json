@@ -1,0 +1,9 @@
+{
+  "name": "AeroBantu",
+  "description": "Premium South African safety network featuring tactical AI surveillance, real-time authority dispatch, and localized emergency telemetry.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
